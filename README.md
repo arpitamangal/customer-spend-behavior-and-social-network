@@ -33,8 +33,8 @@ Data manipulation:
 
 * Separate emoji and text from transaction description
 * Tokenise text
-* Emojis classified into 7 categories: Event	Travel	Food	Activity	Transportation	People	Utility
-* Text classified into 9 categories: People	Food	Event	Activity	Travel	Transportation	Utility	Cash	Illegal/Sarcasm
+* Emojis classified into 7 categories: Event | Travel |	Food |	Activity |	Transportation |	People |	Utility
+* Text classified into 9 categories: Event | Travel |	Food |	Activity |	Transportation |	People |	Utility |	Cash |	Illegal/Sarcasm
 * Flag for emoji only transactions
 * Customer Spend Behaviour Profile (Static, Dynamic): If a user has made 10 transactions, where 5 of them are food and the other 5 are activity, then the user’s spending profile will be 50% food and 50% activity.
 
